@@ -88,6 +88,10 @@ body {
     justify-content: space-between;
     padding-top: 30px;
   }
+
+  .cartao-pokemon.aberto {
+    display: block;
+  }
   
   /* COR DE FUNDO TIPOS POKEMONS */
   
